@@ -10,7 +10,10 @@ function RepoItem(props) {
       <a href={html_url} target="_blank">
         <Card fluid color="blue" >
          <Card.Content >
-        <Card.Header  >{name}</Card.Header>
+           
+        <Card.Header  >
+        <Icon name="github"/>
+          {name}</Card.Header>
         <Card.Meta>{language}</Card.Meta>
         <Card.Description>
           {description}

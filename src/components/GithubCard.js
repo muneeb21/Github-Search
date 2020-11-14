@@ -20,7 +20,7 @@ function GithubCard(props) {
           <div>
           <a>
             <Icon name='github' />
-            {public_repos} Repos
+            {public_repos} Repositories
           </a>
           </div>
           <div>
