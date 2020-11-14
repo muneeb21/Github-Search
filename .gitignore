@@ -5,13 +5,8 @@
 /.pnp
 .pnp.js
 
-style
-Search
-Navbar
-GithubCard
-RepoItem
-actions
-reducers
+
+
 # testing
 /coverage
 
