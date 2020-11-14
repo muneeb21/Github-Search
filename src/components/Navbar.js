@@ -1,11 +1,10 @@
-
-
-
-
+import '../style.css';
 function Navbar() {
     return (
-      <div className="Navbar">
-         
+      <div className="navbar">
+  
+         <h1>Github Search</h1> 
+                  
       </div>
     );
   }
