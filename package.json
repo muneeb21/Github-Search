@@ -1,5 +1,5 @@
 {
-  "homepage":"https://muneeb21.github.io/enter-text",
+  "homepage": "https://muneeb21.github.io/Github-Search",
   "name": "github-card",
   "version": "0.1.0",
   "private": true,
@@ -12,13 +12,14 @@
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.0",
     "redux": "^4.0.5",
+    "rimraf": "^3.0.2",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.0.1",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

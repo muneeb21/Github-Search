@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Demo link to the project [Demo](https://muneeb21.github.io/Github-Search/).<br/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
